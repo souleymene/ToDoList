@@ -2,8 +2,8 @@
 
 Steps:
 
-> git clone https://github.com/souleymene/ToDoList.git
+1- git clone https://github.com/souleymene/ToDoList.git
 
-> cd ToDoList
+2- cd ToDoList
 
->nodemon app.js
+3- nodemon app.js
