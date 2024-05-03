@@ -8,6 +8,8 @@ Steps:
 
 3- nodemon app.js
 
+(PS : Sometimes ,you need to run >npm install before step 3)
+
 # Contact Me
 
 For more information please contact me :
